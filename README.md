@@ -2,6 +2,6 @@
 
 This program will show your actual birthday age.
 
-To run the program simply locate the file 'date' and using Terminal execute> ./date
+To run the program: 1. chmod +x Date 2. ./Date
 
 If you have any suggestion please let me know :)
